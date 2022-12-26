@@ -550,12 +550,11 @@ textarea.form-control {
   }
 }
 /* / experiencia */
-.experiencia {
-  margin-bottom: 10px;
-}
+
 .logo-experiencia{
   max-height: 100px;
   padding-bottom: 5px;
+  margin-top: 10px;
 }
 /* /skills */
 /* education */
